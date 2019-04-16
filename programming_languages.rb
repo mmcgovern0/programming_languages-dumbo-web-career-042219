@@ -3,6 +3,7 @@ require "pry"
 def reformat_languages(languages)
   # your code here
   new_hash = {}
-  languages.each do |hash, type|
+  languages.each do |type, hash|
+    
     
 end
