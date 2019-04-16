@@ -1,7 +1,6 @@
 require "pry"
 
 def reformat_languages(languages)
-def reformat_languages(languages)
   language_attributes = {}
 
   languages.each do |type, language_hash|
